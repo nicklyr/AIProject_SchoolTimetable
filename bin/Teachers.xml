@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Teachers>
+	<Teacher Id="1" Name="Tom Ridle" MaxHoursPerWeek="22">
+		<LessonsCanTeach>
+			<Lesson Id="1"></Lesson>
+			<Lesson Id="2"></Lesson>
+		</LessonsCanTeach>
+		<MaxHoursPerDay>
+			<Day Name="Monday" Hours="3"></Day>
+			<Day Name="Tuesday" Hours="4"></Day>
+			<Day Name="Wendsday" Hours="3"></Day>
+			<Day Name="Thursday" Hours="4"></Day>
+			<Day Name="Friday" Hours="4"></Day>
+		</MaxHoursPerDay>
+	</Teacher>
+		<Teacher Id="2" Name="Harry Potter" MaxHoursPerWeek="23">
+		<LessonsCanTeach>
+			<Lesson Id="2"></Lesson>
+			<Lesson Id="3"></Lesson>
+		</LessonsCanTeach>
+		<MaxHoursPerDay>
+			<Day Name="Monday" Hours="3"></Day>
+			<Day Name="Tuesday" Hours="4"></Day>
+			<Day Name="Wendsday" Hours="3"></Day>
+			<Day Name="Thursday" Hours="4"></Day>
+			<Day Name="Friday" Hours="2"></Day>
+		</MaxHoursPerDay>
+	</Teacher>
+		<Teacher Id="1" Name="Severus Snape" MaxHoursPerWeek="22">
+		<LessonsCanTeach>
+			<Lesson Id="4"></Lesson>
+		</LessonsCanTeach>
+		<MaxHoursPerDay>
+			<Day Name="Monday" Hours="4"></Day>
+			<Day Name="Tuesday" Hours="4"></Day>
+			<Day Name="Wendsday" Hours="4"></Day>
+			<Day Name="Thursday" Hours="4"></Day>
+			<Day Name="Friday" Hours="4"></Day>
+		</MaxHoursPerDay>
+	</Teacher>
+</Teachers>

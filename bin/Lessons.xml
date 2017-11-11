@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lessons>
+	<Lesson Id="1" Name="History">
+		<HoursPerClass Class="A" Hours="10"></HoursPerClass>
+		<HoursPerClass Class="B" Hours="12"></HoursPerClass>
+		<HoursPerClass Class="C" Hours="12"></HoursPerClass>
+	</Lesson>
+	<Lesson Id="2" Name="Math">
+		<HoursPerClass Class="A" Hours="10"></HoursPerClass>
+		<HoursPerClass Class="B" Hours="12"></HoursPerClass>
+		<HoursPerClass Class="C" Hours="12"></HoursPerClass>
+	</Lesson>
+	<Lesson Id="3" Name="Science">
+		<HoursPerClass Class="A" Hours="10"></HoursPerClass>
+		<HoursPerClass Class="B" Hours="12"></HoursPerClass>
+		<HoursPerClass Class="C" Hours="12"></HoursPerClass>
+	</Lesson>
+	<Lesson Id="4" Name="Gym">
+		<HoursPerClass Class="A" Hours="4"></HoursPerClass>
+		<HoursPerClass Class="B" Hours="3"></HoursPerClass>
+		<HoursPerClass Class="C" Hours="3"></HoursPerClass>
+	</Lesson>
+</Lessons>
